@@ -7,10 +7,10 @@ def a(text, shift):
         if c.isalpha():
             if c.isupper():
                 a_text += chr((ord(c) - ord('А') + shift) % 33 + ord('А'))
-
+#учитывает 32 буквы вместо 33, Ё нет
             else:
                 a_text += chr((ord(c) - ord('а') + shift) % 33 + ord('а'))
-
+#учитывает 32 буквы вместо 33, Ё нет
         else:
             a_text += c
     return a_text
@@ -21,10 +21,10 @@ def b(text, shift):
         if c.isalpha():
             if c.isupper():
                 b_text += chr((ord(c) - ord('А') - shift) % 33 + ord('А'))
-
+#учитывает 32 буквы вместо 33, Ё нет
             else:
                 b_text += chr((ord(c) - ord('а') - shift) % 33 + ord('а'))
-
+#учитывает 32 буквы вместо 33, Ё нет
         else:
             b_text += c
     return b_text
