@@ -13,5 +13,5 @@
 Скачать код в GitHub под названием 'Задание 5.py'. Открыв его, появится интефейс. Вверху вводим любой текст, внизу кол-во шагов сдвига. И смотрим результат шифрования и расшифрования.
 # Результаты тестирования
 ![Alt-текст](https://github.com/EduardSabr/Rabota05/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
-![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/2030110/xbExu1Akfsf07JKPorwPZw1050/ocr)
+![Alt-текст](https://github.com/EduardSabr/Rabota05/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
 ![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/402805/19hR8PwiF85NAeBudls5Pg1106/ocr)
